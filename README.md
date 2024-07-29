@@ -1,8 +1,8 @@
-# Monopolee Game Database Project
+# Monopoly Game Database Project
 
 ## Overview
 
-This project models the gameplay of a simplified version of Monopoly called Monopolee using a relational database and SQL queries. The database and queries are designed to be compatible with SQLite.
+This project models the gameplay of a simplified version of Monopoly called Monopoly using a relational database and SQL queries. The database and queries are designed to be compatible with SQLite.
 
 
 ## Files
